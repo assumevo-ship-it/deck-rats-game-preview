@@ -1,0 +1,113 @@
+{
+  "title": "Deck Rats",
+  "status": "In development",
+  "engine": "Unreal Engine 5.8",
+  "contact_email": "3rcian.yt@gmail.com",
+  "short_description": "Sail a changing Caribbean. Explore a growing archipelago, command sailing ships, face shifting weather and build your name as a pirate in Deck Rats, an in-development first-person adventure.",
+  "project_description": "Deck Rats is an in-development first-person pirate adventure set across a Caribbean archipelago. Set out from the tavern, sail between distinctive island regions, and contend with weather that moves across the sea. Ship handling, crew systems, exploration and combat are being built together around a living world in Unreal Engine 5.8.\n\nThis preview brings together real development captures and clearly labelled visual concepts. It is a portfolio of the project in progress, not a finished game, a release announcement or a claim of ecosystem adoption.",
+  "media_disclosure": "Image captions distinguish in-engine captures, asset previews, and concept artwork. Concept artwork is not gameplay.",
+  "images": [
+    {
+      "file": "images/hero-ship-concept.jpg",
+      "title": "Galleon at dusk",
+      "caption": "Visual concept · not an in-game screenshot",
+      "type": "concept"
+    },
+    {
+      "file": "images/archipelago-concept.jpg",
+      "title": "The archipelago",
+      "caption": "Promotional artwork · not an in-game screenshot",
+      "type": "concept"
+    },
+    {
+      "file": "images/tavern-concept.jpg",
+      "title": "A place to begin",
+      "caption": "Promotional artwork · not an in-game screenshot",
+      "type": "concept"
+    },
+    {
+      "file": "images/sunset-in-engine.jpg",
+      "title": "Sunset over the open sea",
+      "caption": "In-engine environment capture · sunset review",
+      "type": "gameplay"
+    },
+    {
+      "file": "images/night-sky-in-engine.jpg",
+      "title": "Stars above the clouds",
+      "caption": "In-engine environment capture · night review",
+      "type": "gameplay"
+    },
+    {
+      "file": "images/fair-weather-in-engine.jpg",
+      "title": "A fair-weather crossing",
+      "caption": "In-engine environment capture · weather review",
+      "type": "gameplay"
+    },
+    {
+      "file": "images/storm-rain-in-engine.jpg",
+      "title": "Rain sweeping across the sky",
+      "caption": "In-engine environment capture · storm review",
+      "type": "gameplay"
+    },
+    {
+      "file": "images/rough-sea-in-engine.jpg",
+      "title": "A rough sea from the deck",
+      "caption": "In-engine ocean capture · sea-state review",
+      "type": "gameplay"
+    },
+    {
+      "file": "images/port-haven-gameplay.jpg",
+      "title": "Port Haven",
+      "caption": "In-game island capture · development build",
+      "type": "gameplay"
+    },
+    {
+      "file": "images/verdant-island-gameplay.jpg",
+      "title": "Verdant island",
+      "caption": "In-game island capture · development build",
+      "type": "gameplay"
+    },
+    {
+      "file": "images/frostfang-gameplay.jpg",
+      "title": "Frostfang",
+      "caption": "In-game island capture · development build",
+      "type": "gameplay"
+    },
+    {
+      "file": "images/island-roster.jpg",
+      "title": "Island variations",
+      "caption": "In-game island preview sheet · development builds",
+      "type": "gameplay"
+    },
+    {
+      "file": "images/captain-lineup.jpg",
+      "title": "Captains of the archipelago",
+      "caption": "Character asset preview · in development",
+      "type": "asset"
+    },
+    {
+      "file": "images/tavern-story-screen.jpg",
+      "title": "Stories at the tavern",
+      "caption": "In-game interface capture · development build",
+      "type": "gameplay"
+    },
+    {
+      "file": "images/open-sea-screen.jpg",
+      "title": "Set out to sea",
+      "caption": "In-game interface capture · development build",
+      "type": "gameplay"
+    },
+    {
+      "file": "images/ship-broadside-concept.jpg",
+      "title": "Working ship silhouette",
+      "caption": "Visual concept · not an in-game screenshot",
+      "type": "concept"
+    },
+    {
+      "file": "images/ship-deck-concept.jpg",
+      "title": "A view from the deck",
+      "caption": "Visual concept · not an in-game screenshot",
+      "type": "concept"
+    }
+  ]
+}
